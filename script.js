@@ -1,5 +1,3 @@
-
-    
 function showMessage() {
 	document.getElementById("result").style.display = "block";
 };
